@@ -1,0 +1,8 @@
+This is an example file for program 35.
+Computers
+COOMPuters
+COmpUTers.
+COmpUTers .
+This line has computers .
+This too has computers.
+This however does not have computers.
