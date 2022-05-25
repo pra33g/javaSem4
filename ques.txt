@@ -1,0 +1,51 @@
+1	WAP to make use of all datatypes available in java	
+2	WAP to take two numbers using Scanner class and display their sum.	
+3	WAP to take three numbers as input using command line arguments and calculate (a/b) +(b/c).	
+4	WAP to calculate perimeter and area of circle, triangle, square, and rectangle.	
+5	WAP to calculate curved surface area, total surface area, and volume of sphere, cylinder, and cone.	
+6	WAP to take age as input and find out if a person is eligible to vote or not.	
+7	WAP to take a year as input and check whether it is a leap year or not.	
+8	WAP to take a number as input and check whether it is an Armstrong number or not.	
+9	WAP to take a number as input and check whether it is a prime number or not.	
+10	WAP to print the prime numbers in a range entered by the user.	
+11	Write a program to take marks as input and display the associated grade using switch.	
+12	Write a program to find the sum of numbers divisible by 7 in an entered range.	
+13	WAP to demonstrate the use of arithmetic operators	
+14	WAP to demonstrate the use of bitwise operators	
+15	WAP to demonstrate the use of logical operators	
+16	WAP to demonstrate the use of relational operators	
+17	WAP to take three numbers as input and display the smallest of them using a conditional operator.	
+18	WAP to calculate the sum of two numbers of different data types by method overloading.	
+19	WAP to demonstrate the concept of different types of constructors in a class.	
+20	WAP to create sphere class in Shapes 3D package and print volume and surface area.	
+21	WAP to print Fibonnaci numbers and store it in an array.	
+22	WAP to take 10 elements as an input in an array, sort it and print using functions.	
+23	WAP to multiply two matrices entered by the user.	
+24	Write a program to demonstrate the concept of abstract class with constructor and ``final`` method.	
+25	Demonstrate the concept of static variable, static function and static block.	
+26	Create a Date class which consists of fields days, month, years. Include appropriate constructors and a method nextDay() which increments the day by 1 and then display the date in proper format ( day/ month/ year). Check the validity of date entered.	
+27	WAP to input salary of a person along with his name, if the salary is less than 85,000 then throw an arithmetic exception with a proper message “not eligible for loan”.	
+28	Write a Java class as Savings Account with members as AccountNo and Balance. Provide depositAmount () and withdrawAmount () functions. If the user tries to withdraw more money than his balance, then throw a User Define Exception	
+29	WAP that has two threads where one thread prints table of 5 and other thread prints a string 10 times. Set and display the names and priorities of these threads	
+30	 WAP that makes use of String class methods	
+31. 	WAP that makes use of StringBuffer class methods	
+32	WAP that writes student’s data (enrollment no, name, percentage, phone no.) to a file and then reads the student data back from that file and display it on the console. (Use BufferedInputStream and BufferedOuputStream)	
+33	WAP to create random access file and read & write integer data in it	
+34	WAP to copy content of one file into another file	
+35	WAP that accept two file names as command line arguments. Copy only those lines from the first file to second file which contains the word “Computers”. Also count number of words in first file	
+36	WAP that take input from keyboard and write into a file using character stream	
+37	Write a program to use Byte stream class to read form a text file and copy the content to another text file	
+38	Create an applet which accepts the messages as parameter and scrolls the message 	
+39	Write a program to create an Applet and use ``setBackground ()`` and ``setForeground ()``. 	
+40	Write a program to create an Applet and use ``setColor ()``, ``drawString ()``, ``drawLine ()``, ``drawRect ()`` etc.
+41	Write a program to create an Applet to display a moving banner	
+42	Write a program to create an Applet to handle mouse events.	
+43	Create Adapter class for mousemotion listener	
+44	Write 4 different programs to implement all 4 layouts (Swings). 	
+45	WAP in java to create menu using swing
+46	Write program to display combination of RGB using 3 scrollbars. 	
+47	Demonstrate use of factory methods for InetAddress class.	
+48	Demonstrate use of getbyname(),gethostname(), gethostaddress() methods for InetAddress class. 	
+49	WAP in which client sends radius to the server, the server computes the area and sends it to the client which displays on the console.	
+50	WAP a JDBC program for -creating, inserting, selecting, updating records 	
+51	WAP to demonstrate the servlet.	
